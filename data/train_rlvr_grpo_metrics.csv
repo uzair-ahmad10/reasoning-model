@@ -1,0 +1,2 @@
+step,total_steps,loss,reward_avg,avg_response_len
+1,50,22.427395,0.250000,195.750000

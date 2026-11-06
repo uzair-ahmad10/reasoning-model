@@ -1,0 +1,15 @@
+[project]
+name = "reasoning-model-from-scratch"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipynb>=0.5.1",
+    "reasoning-from-scratch>=0.1.2",
+    "setuptools>=61.0",
+    "sympy>=1.14.0",
+    "tokenizers>=0.21.2",
+    "torch>=2.10,<3",
+    "tqdm>=4.70.1",
+]
