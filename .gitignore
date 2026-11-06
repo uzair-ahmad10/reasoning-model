@@ -13,3 +13,4 @@ wheels/
 qwen3
 
 qwen3-0.6B-rlvr-grpo-step00050.pth
+data/deepseek-r1-math-train.json
